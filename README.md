@@ -42,3 +42,11 @@ Portfólio pessoal desenvolvido em PHP para apresentar meus projetos e habilidad
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Daviddb2/PortfolioEmPHP.git
+   
+✍️ Autor
+Feito com 💙 por Davi
+GitHub: @Daviddb2
+
+📬 Contato
+Email: davi22552@gmail.com
+LinkedIn: linkedin.com/in/davi-dias-8a274a20b/
