@@ -49,4 +49,4 @@ GitHub: @Daviddb2
 
 📬 Contato
 Email: davi22552@gmail.com
-LinkedIn: linkedin.com/in/davi-dias-8a274a20b/
+LinkedIn: [linkedin.com/in/davi-dias-8a274a20b/](https://www.linkedin.com/in/davi-dias-8a274a20b/)
